@@ -35,4 +35,48 @@ Siga os passos abaixo para executar o jogo em sua máquina local.
 
 ### **Pré-requisitos**
 
-- É necessário ter o **Python 3** instalado. Se você não tiver, pode baixá-lo
+- É necessário ter o **Python 3** instalado. Se você não tiver, pode baixá-lo no [site oficial do Python](https://www.python.org/downloads/).
+
+### **Execução**
+
+1.  **Clone o repositório** (ou simplesmente baixe o arquivo `mad_libs.py`):
+    ```bash
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    ```
+
+2.  **Navegue até a pasta do projeto**:
+    ```bash
+    cd mad_libs_python
+    ```
+
+3.  **Execute o script Python**:
+    ```bash
+    python mad_libs.py
+    ```
+
+4.  **Siga as instruções!** O programa irá pedir para você digitar várias palavras diretamente no terminal. Após fornecer todas, a história final e personalizada será exibida na tela.
+
+### Exemplo de Uso
+```
+$ python mad_libs.py
+--- Bem-vindo ao Gerador de Mad Libs! ---
+Por favor, forneça as palavras pedidas abaixo.
+--------------------------------------------------
+Um nome de pessoa: Gemini
+Um adjetivo (ex: grande, engraçado): veloz
+Um substantivo no plural (ex: cachorros): computadores
+...
+
+--- Sua história maluca está pronta! ---
+--------------------------------------------------
+
+Era uma vez, uma pessoa chamada Gemini. Ele/ela era extremamente veloz
+e adorava passar o tempo correndo com seus computadores.
+...
+```
+
+---
+
+## ✒️ Autor
+
+**Guilherme**
